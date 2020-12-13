@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.14.1",
+    "firebase": "^8.2.0",
     "vue": "^2.6.11",
     "vuex": "^3.4.0"
   },
