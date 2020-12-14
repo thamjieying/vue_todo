@@ -17,11 +17,6 @@ export default {
     NavBar, 
     List,
   },
-  data() {
-    return {
-      input: ''
-    }
-  }
 }
 </script>
 
